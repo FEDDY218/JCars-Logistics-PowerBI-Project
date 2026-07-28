@@ -59,68 +59,96 @@ The dashboard includes several calculated measures, including:
 
 The dashboard contains the following visualizations:
 
-KPI Cards
+.KPI Cards
 
-Total Revenue
+.Total Revenue
 
-Units Sold
+.Units Sold
 
-Number of Orders
+.Number of Orders
 
-Gross Profit
+.Gross Profit
 
-Average Customer Rating
+.Average Customer Rating
 
-Revenue Trend by Month (Line Chart)
+.Revenue Trend by Month (Line Chart)
 
-Top Car Makes / Models by Revenue
+.Top Car Makes / Models by Revenue
 
-Revenue by Region
+.Revenue by Region
 
-Salesperson Performance
+.Salesperson Performance
 
 
 Interactive slicers for:
-Region
+.Region
 
-Branch
+.Branch
 
-Car Make
+.Car Make
 
-Order status
+.Order status
 
-Payment Status
+.Payment Status
 
 
-Key Insights
-Revenue remained positive throughout the reporting period.
-Certain regions consistently generated the highest sales revenue.
-A small number of car models contributed a significant share of total revenue.
-Higher discounts generally reduced gross profit.
-Most deliveries met the expected delivery target.
-Salesperson productivity varied significantly across the organization.
-Customer ratings showed little relationship with revenue generated.
+Key Insights.
+
+.Revenue remained positive throughout the reporting period.
+
+.Certain regions consistently generated the highest sales revenue.
+
+.A small number of car models contributed a significant share of total revenue.
+
+.Higher discounts generally reduced gross profit.
+
+.Most deliveries met the expected delivery target.
+
+.Salesperson productivity varied significantly across the organization.
+
+.Customer ratings showed little relationship with revenue generated.
 
 Recommendations
-Increase inventory for top-performing car models.
-Review discount policies to improve profitability.
-Improve delivery performance in slower-performing regions.
-Provide additional training for lower-performing sales representatives.
-Continue using Power BI dashboards for performance monitoring and strategic decision-making.
-Tools Used
-Power BI Desktop
-PostgreSQL
-Aiven Cloud Database
-DBeaver
+
+.Increase inventory for top-performing car models.
+
+.Review discount policies to improve profitability.
+
+.Improve delivery performance in slower-performing regions.
+
+.Provide additional training for lower-performing sales representatives.
+
+.Continue using Power BI dashboards for performance monitoring and strategic decision-making.
+
+Tools Used are;
+
+.Power BI Desktop
+
+.PostgreSQL
+
+.Aiven Cloud Database
+
+.DBeaver
+
 
 The skills demonstrated are;
+
 1.Data Cleaning
+
 2.SQL
+
 3.PostgreSQL
+
 4.Power Query
+
 5.DAX
+
 6.Data Modeling
+
 7.Data Visualization
+
 8.Dashboard Design
+
 9.Business Intelligence
+
 10.Data Storytelling
