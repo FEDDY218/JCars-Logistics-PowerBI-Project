@@ -21,48 +21,76 @@ The dataset was first prepared and imported into an Aiven PostgreSQL database us
 6 Connecting Power BI to the Database
 
 Power BI Desktop was connected directly to the Aiven PostgreSQL database by:
-
 Selecting Get Data → PostgreSQL Database.
+
 Entering the Aiven host, port, database name, username, and password.
+
 Enabling SSL mode as required by Aiven.
+
 Loading the required table into Power BI.
+
 Performing additional data cleaning and transformations using Power Query.
+
 Measures and Calculations
-
 The dashboard includes several calculated measures, including:
+.Total Revenue
 
-Total Revenue
-Units Sold
-Number of Orders
-Gross Profit
-Gross Profit Margin (%)
-Average Order Value
-Average Customer Rating
-Revenue per Order
-Gross Profit per Order
-Percentage Discount
-Service Level Performance
-Dashboard Visuals
+.Units Sold
+
+.Number of Orders
+
+.Gross Profit
+
+.Gross Profit Margin (%)
+
+.Average Order Value
+
+.Average Customer Rating
+
+.Revenue per Order
+
+.Gross Profit per Order
+
+.Percentage Discount
+
+.Service Level Performance
+
+.Dashboard Visuals
 
 The dashboard contains the following visualizations:
 
 KPI Cards
+
 Total Revenue
+
 Units Sold
+
 Number of Orders
+
 Gross Profit
+
 Average Customer Rating
+
 Revenue Trend by Month (Line Chart)
+
 Top Car Makes / Models by Revenue
+
 Revenue by Region
+
 Salesperson Performance
+
 
 Interactive slicers for:
 Region
+
 Branch
+
 Car Make
+
 Order status
+
 Payment Status
+
 
 Key Insights
 Revenue remained positive throughout the reporting period.
