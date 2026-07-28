@@ -8,12 +8,17 @@ Data Import into Aiven
 
 The dataset was first prepared and imported into an Aiven PostgreSQL database using DBeaver. The import process involved:
 
-Creating a PostgreSQL database on Aiven.
-Connecting DBeaver to the Aiven database using the provided SSL credentials.
-Creating the required table.
-Importing the CSV dataset into PostgreSQL.
-Verifying that all records were successfully imported before connecting Power BI.
-Connecting Power BI to the Database
+1 Creating a PostgreSQL database on Aiven.
+
+2 Connecting DBeaver to the Aiven database using the provided SSL credentials.
+
+3 Creating the required table.
+
+4 Importing the CSV dataset into PostgreSQL.
+
+5 Verifying that all records were successfully imported before connecting Power BI.
+
+6 Connecting Power BI to the Database
 
 Power BI Desktop was connected directly to the Aiven PostgreSQL database by:
 
