@@ -144,3 +144,8 @@ The skills demonstrated are;
 9.Business Intelligence
 
 10.Data Storytelling
+
+
+
+<img width="1920" height="1040" alt="visuals" src="https://github.com/user-attachments/assets/7da5189e-c8d9-4e9e-9a3e-b1c55dfaf35a" />
+
